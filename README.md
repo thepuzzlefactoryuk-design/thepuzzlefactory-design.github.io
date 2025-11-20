@@ -188,7 +188,7 @@
 
 <div class="filler">
   <p>
-    The Puzzle Factory is a Generative Art Studio.
+    The Puzzle Factory is a Generative Art Studio. Is this the readme you're reading?
   </p>
   <p>We are currently under construction, in two worlds.</p>
   <p>
